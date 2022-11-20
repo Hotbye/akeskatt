@@ -54,7 +54,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['201121968769'] //ur owner number
+global.vcardowner = ['akeskatt'] //ur owner number
 global.ownername = "عـاڪسـﮯ خط" //ur owner name
 global.ytname = "YT: akeskatt" //ur yt chanel name
 global.socialm = "o" //ur github or insta name
