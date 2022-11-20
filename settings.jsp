@@ -11,14 +11,14 @@
 //hai to, description me xeon ka yt channel
 // ka link paste kr dena as a cradit or github 
 //repo me bhi tag kardena baki jo
-//bhi karna hai apki marzi, thank you!🦄
+//bhi karna hai apki marzi, thank you!♡
 //════════════════════════════//
 //If you recode and uploading on your channel
 //or copy pasting the codes in ur script, 
 //i give permission to do as long as you
 //put Xeons youtube channel link in the video
 //description and tag me on githuh repo, 
-//thank you🦄
+//thank you♡
 //════════════════════════════//
 
 const fs = require('fs')
@@ -54,24 +54,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['201121968769'] //ur owner number
-global.ownername = "𝐾𝐻𝐻𝐹𝑈" //ur owner name
-global.ytname = "YT: khufu" //ur yt chanel name
+global.vcardowner = ['♡♡♡♡'] //ur owner number
+global.ownername = "akeskatt" //ur owner name
+global.ytname = "YT: •akeskatt•" //ur yt chanel name
 global.socialm = "o" //ur github or insta name
-global.location = "Egypt" //ur location
+global.location = "♡" //ur location
 
 //bot bomdy 
-global.owner = ['201121968769']
-global.ownertag = '201121968769' //ur tag number
+global.owner = ['♡♡♡♡']
+global.ownertag = '♡♡♡♡' //ur tag number
 
 global.botname = 'ᴹᴿ᭄ Bot Whatsapp ×፝֟͜×' //ur bot name
-global.linkz = "https://youtube.com/channel/UCaWoQPfLiIY4dDp3WeWm7oA" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCaWoQPfLiIY4dDp3WeWm7oA" //ur website to be displayed
-global.botscript = 'https://youtube.com/channel/UCB3Z3phhszGj8FBdaJmIdJQ' //script link
+global.linkz = "https://yoube.com/channel/UCaWoQPfLiIY4dDp3WeWm7oA" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youte.com/channel/UCaWoQPfLiIY4dDp3WeWm7oA" //ur website to be displayed
+global.botscript = 'https://yoube.com/channel/UCB3Z3phhszGj8FBdaJmIdJQ' //script link
 global.reactmoji = "💗" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
+global.themeemoji = "♡" //ur theme emoji
 global.packname = "01121968769" //ur sticker watermark packname
-global.author = "خوفو ص المزعجين ☺️ " //ur sticker watermark author
+global.author = " akeskatt  ☺️ " //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./KhufuMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -106,19 +106,19 @@ global.antitags = false
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'ضن✓',
+    success: 'ok✓',
     admin: 'لازم تكون ادمن الاول ',
-    botAdmin: 'لازم اكون ادمن  الاول ',
-    owner: 'ميزه دي ل مالك البوت فقط ',
-    group: 'فقط في رومات ',
+    botAdmin: 'لازم  ادمن  الاول ',
+    owner: 'ميزه  ل مالك البوت فقط ',
+    group: 'فقط  group ',
     private: 'برايفت بس!',
-    bot: 'ميزه دي ل بوت فقط',
+    bot: 'ميزه  ل بوت فقط',
     wait: 'استني ....',
-    linkm: 'فين لينك؟',
+    linkm: ' لينك؟',
     error: 'ايرور!!!!',
     endLimit: 'تعالا بكره !',
     ban: 'لا استطيع ارسال اي شئ لان مالك قام بحظر هاذا روم !',
-    nsfw: 'ميزه مقفوله خلي الادمن يشغلها!',
+    nsfw: 'ميزه  خلي الادمن يشغلها!',
     banChat: ''
 }
     global.limitawal = {
