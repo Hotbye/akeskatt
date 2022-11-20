@@ -64,7 +64,7 @@ global.location = "saudi" //ur location
 global.owner = ['Akeskatt']
 global.ownertag = 'akeskatt' //ur tag number
 
-global.botname = 'ᴹᴿ᭄ Bot Whatsapp ×፝֟͜×' //ur bot name
+global.botname = 'ᴿ᭄ Bot Whatsapp ×፝֟͜×' //ur bot name
 global.linkz = "..." //your theme url which will be displayed on whatsapp
 global.websitex = "..." //ur website to be displayed
 global.botscript = '...' //script link
